@@ -1,0 +1,9 @@
+ros-kinetic-rtt-pcl-ros (0.1.0-1xenial) xenial; urgency=high
+
+  * Added package rtt_pcl_ros
+  * Initial commit
+  * Contributors: Johannes Meyer
+
+ -- Orocos Developers <orocos-dev@lists.mech.kuleuven.be>  Wed, 25 Sep 2019 22:00:00 -0000
+
+
